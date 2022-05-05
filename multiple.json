@@ -1,0 +1,1208 @@
+{
+  "header": [
+    "CPU Name",
+    "CPU Mark(higher is better)",
+    "Rank(lower is better)",
+    "CPU Value(higher is better)",
+    "Price(USD)"
+  ],
+  "ListCPU": [
+    {
+      "CPU Name": "[5-Way] AMD Ryzen 9 5950X13,2202454.13$3,199.95"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 7F3241,23094NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 7F5265,6593510.59$6,200.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 7H12100,81768.47$11,898.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 7T83114,2144NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 74F395,331129.55$9,978.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 75F393,75213NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 726234,22711829.92$1,143.90*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 727244,2708436.56$1,210.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 730134,14811911.38$2,999.96*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 730241,8348918.75$2,231.24"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 731365,2133727.63$2,359.98*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 735125,43015414.38$1,767.98*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 735266,2393325.87$2,560.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 740155,280559.53$5,797.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 740258,4364614.89$3,924.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 741374,4172718.62$3,995.98*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 744386,72818NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 745384,3692023.45$3,598.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 750280,2262314.59$5,500.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 751396,3781016.97$5,680.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 753282,91721NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 754272,5342920.26$3,579.98"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 7543103,492513.76$7,522.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 755155,708539.37$5,948.24*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 755291,019179.75$9,335.82"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 760156,7904831.55$1,799.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 7643115,676210.66$10,849.98*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 766297,17897.13$13,634.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 770291,8781511.48$8,000.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 771395,337116.75$14,120.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 774299,76079.89$10,091.98"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD EPYC 7763119,19818.16$14,599.98"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 2851,44139428.87$49.90*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 2901,4303955.30$270.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 22201,5333910.74$2,076.52"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 23543,2423795.68$570.38*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 23563,00938116.73$179.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 23874,105366NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 24274,49935740.90$110.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 24354,377361199.85$21.90*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 42848,560302288.78$29.64"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 43867,93431316.55$479.40"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 61286,30733111.72$538.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 6128 HE6,454330NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 61346,05333626.00$232.80"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 61367,96431111.41$698.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 62207,984310269.36$29.64"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 62348,6443019.58$901.98"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 627410,3132765.82$1,771.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 627610,2322795.28$1,936.92"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 6282 SE7,13032015.96$446.78"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 63289,92628714.45$686.92"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 634813,0722463.83$3,417.34"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 6366 HE10,26527814.92$687.98*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 637610,2102802.48$4,110.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 637811,4682633.35$3,419.84"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 638011,5352606.74$1,711.58"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 6386 SE12,78925047.34$270.18*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Opteron 8439 SE6,30633260.64$104.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Ryzen Threadripper PRO 3955WX63,8854016.01$3,990.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Ryzen Threadripper PRO 3975WX98,811810.54$9,378.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] AMD Ryzen Threadripper PRO 3995WX115,24038.46$13,615.96"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon 3.06GHz533399NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon 3.20GHz700398NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon 3.40GHz902397NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon 3.73GHz1,511392NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon 5110 @ 1.60GHz1,28939618.42$70.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon 5120 @ 1.86GHz1,4863930.50$2,948.80"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon 5130 @ 2.00GHz1,58139016.14$97.98*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon 5140 @ 2.33GHz1,75238923.69$73.98*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon 5150 @ 2.66GHz1,99738732.22$61.98*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon 5160 @ 3.00GHz2,21238625.43$87.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Bronze 3104 @ 1.70GHz8,13330912.70$640.48"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Bronze 3106 @ 1.70GHz10,02328314.99$668.62"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Bronze 3206R @ 1.90GHz10,79727017.64$612.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2407 @ 2.20GHz5,4213418.34$650.06"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2407 v2 @ 2.40GHz6,65532427.68$240.38"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2420 @ 1.90GHz8,85929926.06$340.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2420 v2 @ 2.20GHz11,50426167.52$170.38"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2428L @ 1.80GHz8,50030555.20$154.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2430 @ 2.20GHz9,41829568.25$138.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2430 v2 @ 2.50GHz12,26725330.44$403.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2430L @ 2.00GHz9,635290149.24$64.56*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2430L v2 @ 2.40GHz10,918267NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2440 @ 2.40GHz10,83526931.87$340.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2440 v2 @ 1.90GHz13,81823813.82$999.90*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2450 @ 2.10GHz10,46827381.78$128.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2450 v2 @ 2.50GHz15,97822426.64$599.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2450L @ 1.80GHz11,92125691.70$130.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2470 @ 2.30GHz14,77123152.76$280.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2470 v2 @ 2.40GHz16,91321335.83$472.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2603 @ 1.80GHz4,43336030.80$143.92"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2603 v2 @ 1.80GHz5,06734842.94$118.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2603 v3 @ 1.60GHz6,62632665.11$101.78"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2603 v4 @ 1.70GHz7,92731415.35$516.38"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2609 @ 2.40GHz5,95533741.43$143.74*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2609 v2 @ 2.50GHz6,72232143.80$153.48"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2609 v3 @ 1.90GHz8,51430353.29$159.76"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2609 v4 @ 1.70GHz10,19828116.19$629.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2620 @ 2.00GHz9,50629262.83$151.30"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2620 v2 @ 2.10GHz10,871268110.92$98.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2620 v3 @ 2.40GHz13,38124184.69$158.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2620 v4 @ 2.10GHz16,01222320.07$798.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2623 v3 @ 3.00GHz11,84425723.69$499.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2623 v4 @ 2.60GHz8,50630450.63$168.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2630 @ 2.30GHz10,779271109.99$98.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2630 v2 @ 2.60GHz13,54324098.14$138.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2630 v3 @ 2.40GHz17,11121170.95$241.16"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2630 v4 @ 2.20GHz19,37720125.84$749.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2630L @ 2.00GHz9,622291NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2630L v2 @ 2.40GHz12,48125170.40$177.30*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2630L v3 @ 1.80GHz14,40723491.18$158.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2637 v2 @ 3.50GHz11,98725547.00$255.04"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2637 v3 @ 3.50GHz13,31324359.43$224.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2637 v4 @ 3.50GHz13,91323748.65$286.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2640 @ 2.50GHz11,58125977.21$150.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2640 v2 @ 2.00GHz13,01024798.95$131.48"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2640 v3 @ 2.60GHz17,728208150.24$118.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2640 v4 @ 2.40GHz21,39918623.21$922.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2643 @ 3.30GHz9,82928830.24$325.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2643 v2 @ 3.50GHz16,90321421.18$797.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2643 v3 @ 3.40GHz17,8332053.57$4,999.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2643 v4 @ 3.40GHz19,66119825.63$767.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2648L @ 1.80GHz9,940284NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2648L v2 @ 1.90GHz16,0282228.48$1,890.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2650 @ 2.00GHz12,995248132.60$98.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2650 v2 @ 2.60GHz17,565210125.46$140.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2650 v3 @ 2.30GHz19,42420090.03$215.74"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2650 v4 @ 2.20GHz22,1561819.23$2,399.98*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2650L @ 1.80GHz9,926286101.28$98.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2650L v2 @ 1.70GHz14,62523392.57$158.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2650L v3 @ 1.80GHz18,9832026.95$2,730.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2650L v4 @ 1.70GHz25,46915318.19$1,400.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2651 v2 @ 1.80GHz15,47122827.82$556.20*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2658 @ 2.10GHz9,6522893.57$2,701.40*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2658 v2 @ 2.40GHz17,7402072.46$7,208.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2658 v3 @ 2.20GHz22,573175NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2658 v4 @ 2.30GHz27,797145NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2660 @ 2.20GHz14,138236109.21$129.46"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2660 v2 @ 2.20GHz17,867204113.08$158.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2660 v3 @ 2.60GHz22,38217778.41$285.46"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2660 v4 @ 2.00GHz28,53514153.33$535.10"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2665 @ 2.40GHz14,72023283.64$176.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2667 @ 2.90GHz13,35324269.41$192.38"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2667 v2 @ 3.30GHz21,38818861.12$349.90*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2667 v3 @ 3.20GHz21,51118526.69$806.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2667 v4 @ 3.20GHz24,46916134.22$715.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2670 @ 2.60GHz15,713226110.66$142.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2670 v2 @ 2.50GHz19,966195126.37$158.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2670 v3 @ 2.30GHz22,915173179.05$127.98"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2673 v2 @ 3.30GHz20,603191NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2673 v3 @ 2.40GHz22,73617416.24$1,400.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2673 v4 @ 2.30GHz33,0291248.47$3,900.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2676 v3 @ 2.40GHz20,528192NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2678 v3 @ 2.50GHz25,36715774.61$340.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2680 @ 2.70GHz16,11722094.31$170.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2680 v2 @ 2.80GHz20,67819074.92$276.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2680 v3 @ 2.50GHz24,66916086.86$284.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2680 v4 @ 2.40GHz29,44414036.60$804.38"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2682 v4 @ 2.50GHz30,955132NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2683 v3 @ 2.00GHz24,9761588.33$2,997.90*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2683 v4 @ 2.10GHz30,33713637.05$818.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2685 v3 @ 2.60GHz20,233194NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2686 v4 @ 2.30GHz40,31097NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2687W @ 3.10GHz17,62120945.89$384.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2687W v2 @ 3.40GHz20,92518924.21$864.38"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2687W v3 @ 3.10GHz24,009164120.06$199.98"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2687W v4 @ 3.00GHz29,80913915.28$1,950.20"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2689 @ 2.60GHz16,31821944.65$365.50*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2690 @ 2.90GHz16,84721662.21$270.80"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2690 v2 @ 3.00GHz22,11418265.05$339.98"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2690 v3 @ 2.60GHz26,97114757.34$470.38"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2690 v4 @ 2.60GHz34,33611734.45$996.62*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2695 v2 @ 2.40GHz22,20317960.66$366.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2695 v3 @ 2.30GHz31,73312765.24$486.38"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2695 v4 @ 2.10GHz33,88912228.62$1,184.20"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2696 v2 @ 2.50GHz23,801165NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2696 v3 @ 2.30GHz35,3111127.07$4,996.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2696 v4 @ 2.20GHz44,547837.97$5,587.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2697 v2 @ 2.70GHz23,39016971.97$325.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2697 v3 @ 2.60GHz28,00514453.86$519.96"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2697 v4 @ 2.30GHz39,1899922.42$1,748.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2697A v4 @ 2.60GHz35,233113NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2698 v3 @ 2.30GHz31,5341294.63$6,811.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2698 v4 @ 2.20GHz41,4649122.81$1,817.40*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2699 v3 @ 2.30GHz35,62210931.77$1,121.32"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2699 v4 @ 2.20GHz42,540883.57$11,915.92*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2699A v4 @ 2.40GHz42,615874.32$9,876.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-2699C v4 @ 2.20GHz34,048120NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-4603 @ 2.00GHz6,69032325.31$264.38"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-4610 v4 @ 1.80GHz15,08423017.85$845.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-4617 @ 2.90GHz11,387264158.68$71.76*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-4620 @ 2.20GHz11,47426279.72$143.92"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-4620 v2 @ 2.60GHz16,09422188.43$182.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-4627 v2 @ 3.30GHz15,89822515.93$997.90*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-4627 v3 @ 2.60GHz20,2941934.23$4,800.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-4627 v4 @ 2.60GHz22,16218011.08$1,999.98*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-4640 v4 @ 2.10GHz22,559176NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-4650 @ 2.70GHz14,30923591.50$156.38"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-4657L v2 @ 2.40GHz21,54818414.34$1,502.38"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5-4669 v3 @ 2.10GHz31,4741302.91$10,800.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E7-4890 v2 @ 2.80GHz30,9461332.50$12,400.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E7-8880 v2 @ 2.50GHz25,966151118.41$219.28*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E7- 4807 @ 1.87GHz6,22333469.15$90.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5310 @ 1.60GHz2,62938426.83$98.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5320 @ 1.86GHz2,81738236.35$77.50*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5345 @ 2.33GHz3,52537644.08$79.98*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5405 @ 2.00GHz3,29837727.95$118.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5410 @ 2.33GHz3,803373177.87$21.38*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5420 @ 2.50GHz3,9973698.00$499.90*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5430 @ 2.66GHz4,2423649.22$459.90*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5440 @ 2.83GHz4,32536256.93$75.98*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5450 @ 3.00GHz4,58135661.93$73.98*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5462 @ 2.80GHz4,4403599.82$452.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5472 @ 3.00GHz4,765353118.89$40.08*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5502 @ 1.87GHz1,85338811.58$160.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5504 @ 2.00GHz3,29237825.72$128.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5506 @ 2.13GHz3,81537221.20$180.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5507 @ 2.27GHz4,01036820.05$200.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5520 @ 2.27GHz4,48535830.88$145.22"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5530 @ 2.40GHz5,10134585.04$59.98"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5540 @ 2.53GHz5,04834935.33$142.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5603 @ 1.60GHz3,54837518.64$190.38"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5606 @ 2.13GHz3,9473709.01$438.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5607 @ 2.27GHz4,71835423.59$200.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5620 @ 2.40GHz6,50832873.68$88.32"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5630 @ 2.53GHz6,69032220.15$332.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5640 @ 2.67GHz7,29231753.61$136.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5645 @ 2.40GHz8,96929886.24$104.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon E5649 @ 2.53GHz9,43929364.96$145.30"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 5117 @ 2.00GHz26,227150NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 5118 @ 2.30GHz24,22616317.33$1,398.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 5120 @ 2.20GHz30,3711359.73$3,122.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 5122 @ 3.60GHz16,4472189.09$1,808.66"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 5215 @ 2.50GHz27,73614610.01$2,769.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 5217 @ 3.00GHz25,4091557.72$3,290.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 5218 @ 2.30GHz34,90411512.42$2,811.28"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 5218R @ 2.10GHz41,3029316.27$2,537.92"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 5218T @ 2.10GHz34,75711612.88$2,698.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 5220 @ 2.20GHz41,4439212.38$3,348.88"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 5220R @ 2.20GHz56,2855116.44$3,424.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 5222 @ 3.80GHz17,7872066.02$2,952.64"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 5315Y @ 3.20GHz37,30910314.72$2,535.36*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 5320 @ 2.20GHz65,9793418.39$3,587.98"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6128 @ 3.40GHz23,0141726.69$3,438.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6130 @ 2.10GHz35,48011010.02$3,540.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6130H @ 2.10GHz35,440111NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6132 @ 2.60GHz38,12310115.85$2,405.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6134 @ 3.20GHz28,3121428.33$3,399.98"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6136 @ 3.00GHz34,0121216.80$5,000.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6138 @ 2.00GHz41,7809012.56$3,325.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6140 @ 2.30GHz39,9069819.95$2,000.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6142 @ 2.60GHz37,3811028.91$4,195.94"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6143 @ 2.80GHz46,55080NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6144 @ 3.50GHz25,8801526.17$4,194.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6148 @ 2.40GHz44,923827.96$5,644.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6149 @ 3.10GHz37,240104NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6150 @ 2.70GHz49,8877010.08$4,947.82"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6152 @ 2.10GHz48,742757.70$6,334.28"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6154 @ 3.00GHz51,087666.72$7,597.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6226 @ 2.70GHz30,2061378.41$3,590.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6226R @ 2.90GHz40,8469614.88$2,744.16"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6230 @ 2.10GHz43,6068510.96$3,980.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6230R @ 2.10GHz54,6055714.45$3,780.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6234 @ 3.30GHz30,0631386.94$4,330.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6238R @ 2.20GHz56,1835210.53$5,334.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6240 @ 2.60GHz49,4167410.04$4,919.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6240R @ 2.40GHz56,4764914.49$3,897.46"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6242 @ 2.80GHz26,4901495.37$4,930.28"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6242R @ 3.10GHz49,6217310.04$4,944.28"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6244 @ 3.60GHz33,3101235.61$5,940.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6246 @ 3.30GHz42,867866.88$6,226.44*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6248R @ 3.00GHz62,5654210.11$6,190.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6250 @ 3.90GHz35,9781085.30$6,792.52"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6253CL @ 3.10GHz49,87271NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6254 @ 3.10GHz54,869567.56$7,254.76"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6256 @ 3.60GHz46,767796.09$7,684.70"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6258R @ 2.70GHz63,984398.71$7,345.40"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6326 @ 2.90GHz53,7065816.72$3,211.58"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6330 @ 2.00GHz63,7424116.74$3,808.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6334 @ 3.60GHz38,3081007.45$5,140.82*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6336Y @ 2.40GHz72,276309.39$7,700.68*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6338 @ 2.00GHz73,6222813.29$5,540.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6338N @ 2.20GHz58,730459.82$5,982.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6342 @ 2.80GHz74,533269.74$7,651.80*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6346 @ 3.10GHz59,3294412.90$4,598.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6348 @ 2.60GHz75,5742511.91$6,346.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Gold 6354 @ 3.00GHz65,3943611.15$5,865.26*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon L5420 @ 2.50GHz4,05936773.81$55.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon L5430 @ 2.66GHz4,2693639.40$454.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon L5506 @ 2.13GHz3,70637419.80$187.20"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon L5520 @ 2.27GHz3,11938031.83$98.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon L5630 @ 2.13GHz5,10234421.62$236.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon L5638 @ 2.00GHz7,21731951.62$139.80*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon L5639 @ 2.13GHz5,768338NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon L5640 @ 2.27GHz8,39830657.80$145.30"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8124M @ 3.00GHz48,42377NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8153 @ 2.00GHz32,1801265.17$6,230.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8160 @ 2.10GHz49,8657210.62$4,697.40"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8160M @ 2.10GHz53,1586017.05$3,117.40*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8168 @ 2.70GHz52,011643.32$15,658.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8171M @ 2.60GHz57,78047NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8173M @ 2.00GHz53,09361NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8180 @ 2.50GHz61,751433.25$19,010.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8180M @ 2.50GHz51,43965NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8252C @ 3.80GHz47,75778NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8253 @ 2.20GHz28,1651433.91$7,197.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8256 @ 3.80GHz16,7872171.12$14,992.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8260 @ 2.40GHz52,110637.51$6,935.10"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8260M @ 2.30GHz55,297543.59$15,410.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8273CL @ 2.20GHz50,34868NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8275CL @ 3.00GHz66,81232NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8280 @ 2.70GHz64,291383.62$17,740.92"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8352Y @ 2.20GHz68,643317.73$8,885.44*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8358 @ 2.60GHz82,565228.10$10,195.50*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8368 @ 2.40GHz92,054146.07$15,171.60*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8375C @ 2.90GHz86,01819NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Platinum 8380 @ 2.30GHz91,484165.09$17,956.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Silver 4110 @ 2.10GHz17,07221216.11$1,060.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Silver 4112 @ 2.60GHz12,00825410.92$1,100.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Silver 4114 @ 2.20GHz21,39618713.80$1,550.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Silver 4116 @ 2.10GHz24,88515931.90$779.98"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Silver 4208 @ 2.10GHz19,63119920.36$964.02"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Silver 4210 @ 2.20GHz23,70716726.40$898.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Silver 4210R @ 2.40GHz23,61616824.35$969.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Silver 4214 @ 2.20GHz23,76116615.60$1,523.40"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Silver 4214R @ 2.40GHz30,90113421.31$1,450.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Silver 4215 @ 2.50GHz22,37917812.86$1,739.90"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Silver 4215R @ 3.20GHz26,71414815.53$1,720.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Silver 4216 @ 2.10GHz31,71212814.46$2,193.32"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Silver 4309Y @ 2.80GHz34,98411425.82$1,355.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Silver 4310 @ 2.10GHz41,1129533.77$1,217.54"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Silver 4314 @ 2.40GHz45,8898126.46$1,734.60"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon Silver 4316 @ 2.30GHz52,5156223.25$2,258.44"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon W5580 @ 3.20GHz6,2983333.72$1,694.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon W5590 @ 3.33GHz6,6403252.36$2,812.68*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5260 @ 3.33GHz2,38938591.89$26.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5355 @ 2.66GHz3,8513716.42$599.90*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5365 @ 3.00GHz4,21236533.44$125.98*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5450 @ 3.00GHz4,64335546.47$99.92*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5460 @ 3.16GHz4,91535011.19$439.10*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5470 @ 3.33GHz5,07734614.11$359.90*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5472 @ 3.00GHz4,85835110.80$450.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5482 @ 3.20GHz5,06934725.36$199.90*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5492 @ 3.40GHz5,2793431.90$2,782.58*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5550 @ 2.67GHz5,62133957.36$98.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5560 @ 2.80GHz5,60634039.48$142.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5570 @ 2.93GHz6,08933530.45$200.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5647 @ 2.93GHz8,135308204.09$39.86*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5650 @ 2.67GHz10,32727589.03$116.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5660 @ 2.80GHz10,31327773.08$141.12*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5667 @ 3.07GHz8,307307230.25$36.08*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5670 @ 2.93GHz10,96826685.77$127.88"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5672 @ 3.20GHz8,74630097.20$89.98*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5675 @ 3.07GHz11,600258187.22$61.96"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5677 @ 3.47GHz9,02129741.00$220.00*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5679 @ 3.20GHz9,431294NANA"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5680 @ 3.33GHz12,41925242.83$290.00"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5687 @ 3.60GHz9,28329624.43$379.90*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X5690 @ 3.47GHz12,87224934.04$378.12*"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X7460 @ 2.66GHz4,80335211.82$406.38"
+    },
+    {
+      "CPU Name": "[Dual CPU] Intel Xeon X7550 @ 2.00GHz7,87331539.36$200.00"
+    },
+    {
+      "CPU Name": "[Quad CPU] AMD Opteron 8852,696383NANA"
+    },
+    {
+      "CPU Name": "[Quad CPU] AMD Opteron 617411,2662650.75$15,120.00"
+    },
+    {
+      "CPU Name": "[Quad CPU] AMD Opteron 627610,7632722.78$3,873.84"
+    },
+    {
+      "CPU Name": "[Quad CPU] AMD Opteron 627813,73323926.82$512.00"
+    },
+    {
+      "CPU Name": "[Quad CPU] AMD Opteron 632810,0762827.33$1,373.84"
+    },
+    {
+      "CPU Name": "[Quad CPU] AMD Opteron 637619,7171962.40$8,220.00"
+    },
+    {
+      "CPU Name": "[Quad CPU] AMD Opteron 637813,2362441.94$6,839.68"
+    },
+    {
+      "CPU Name": "[Quad CPU] AMD Opteron 83565,3973426.65$812.04*"
+    },
+    {
+      "CPU Name": "[Quad CPU] AMD Opteron 83787,95231222.54$352.84*"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E5-4610 @ 2.40GHz23,35417027.13$860.76"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E5-4617 @ 2.90GHz16,902215117.77$143.52*"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E5-4620 v2 @ 2.60GHz18,18420349.96$364.00*"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E5-4627 v2 @ 3.30GHz31,35513115.71$1,995.80*"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E5-4640 @ 2.40GHz19,66419781.95$239.96"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E5-4650 @ 2.70GHz25,37315681.13$312.76"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E5-4650 v2 @ 2.40GHz32,80512534.30$956.36*"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E5-4657L v2 @ 2.40GHz37,20810512.38$3,004.76"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E5-4667 v4 @ 2.20GHz53,402592.33$22,916.00*"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E5-4669 v3 @ 2.10GHz50,719672.35$21,600.00*"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E7-4880 v2 @ 2.50GHz48,4357640.50$1,196.00*"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E7-8857 v2 @ 3.00GHz36,3041072.36$15,352.00*"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E7-8867 v3 @ 2.50GHz36,9081061.97$18,688.00*"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E7-8880 v3 @ 2.30GHz50,1576994.28$532.00*"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E7-8895 v2 @ 2.80GHz56,32650NANA"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E7- 4850 @ 2.00GHz21,64218336.57$591.80"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E7- 4860 @ 2.27GHz15,66322797.92$159.96*"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E7- 4870 @ 2.40GHz23,122171147.69$156.56*"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E7- 8870 @ 2.40GHz24,4341621.22$20,034.04*"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E7330 @ 2.40GHz6,49132919.09$340.00*"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E7340 @ 2.40GHz6,54432752.78$124.00*"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E7450 @ 2.40GHz9,93228524.83$400.00"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E7530 @ 1.87GHz7,23131832.87$220.00*"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon E7540 @ 2.00GHz10,37627452.94$196.00*"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon Gold 6256 @ 3.60GHz76,542244.98$15,369.40"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon X7350 @ 2.93GHz7,83631617.71$442.40*"
+    },
+    {
+      "CPU Name": "[Quad CPU] Intel Xeon X7560 @ 2.27GHz15,3292296.97$2,200.00"
+    }
+  ]
+}
