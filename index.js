@@ -1,4 +1,5 @@
 const puppeteer = require("puppeteer");
+const fs = require("fs");
 
 const URL = "https://www.cpubenchmark.net/cpu_list.php";
 
@@ -11,7 +12,7 @@ const URL = "https://www.cpubenchmark.net/cpu_list.php";
 
 	const data = await page.evaluate(getData);
 
-	console.log(data);
+	fs.writeFileSync("cpu-single.json", JSON.stringify(data, null, 2));
 
 	await browser.close();
 })();
